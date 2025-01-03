@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10d9af1a-9583-4d91-8f93-98c2c5f5e829",
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "phone": "555-123-4567"
+  },
+  {
+    "id": "7e8b9c33-d31c-4415-bde0-8b94fc0a8a02",
+    "name": "Bob Brown",
+    "email": "bob.brown@example.com",
+    "phone": "555-234-5678"
+  },
+  {
+    "id": "94ad03bc-3a2b-4cda-b9e6-3a0bd5c02de1",
+    "name": "Charlie Davis",
+    "email": "charlie.davis@example.com",
+    "phone": "555-345-6789"
+  },
+  {
+    "id": "1735892168257",
+    "name": "Mango",
+    "email": "mango@gmail.com",
+    "phone": "322-22-22"
+  }
+]
