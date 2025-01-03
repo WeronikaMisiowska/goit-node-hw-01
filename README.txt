@@ -13,7 +13,7 @@
 ![List Contacts](https://ibb.co/yq5fFsc)
 
 ### Get Contact by ID
-![Get Contact by ID](https://ibb.co/zVq4yGj)
+![Get Contact by ID](https://ibb.co/NpsLJpD)
 
 ### Add Contact
 ![Add Contact](https://ibb.co/y4LD27R)
